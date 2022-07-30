@@ -1,0 +1,277 @@
+ /* CSS projetoCards */
+                        
+ #nf {
+    margin-left: 2em;
+    margin-top: 1.5em;
+    display: inline-block;
+    padding: 30px 8px;
+    max-width: 280px;
+    max-height: 350px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+#nf2 {
+    margin-left: 7em;
+    margin-top: 1.5em;
+    display: inline-block;
+    padding: 30px 8px;
+    max-width: 400px;
+    min-width: 340px;
+    max-height: 125px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+#nf3 {
+    margin-left: 7em;
+    margin-top: 1.5em;
+    display: inline-block;
+    padding: 30px 8px;
+    max-width: 400px;
+    min-width: 340px;
+    max-height: 125px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+#nfintro1 {
+    margin-left: 2em;
+    margin-top: 1.5em;
+    display: inline-block;
+    padding: 30px 8px;
+    max-width: 400px;
+    min-width: 340px;
+    max-height: 125px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-left: 4px solid #1AA689
+}
+
+#nfintro2 {
+    /* margin-left: 2em; */
+    margin-top: 1.5em;
+    display: inline-block;
+    padding: 30px 8px;
+    max-width: 400px;
+    min-width: 340px;
+    max-height: 125px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-left: 4px solid #1AA689
+}
+
+#nfintro3 {
+    /* margin-left: 2em; */
+    margin-top: 1.5em;
+    display: inline-block;
+    padding: 30px 8px;
+    max-width: 400px;
+    min-width: 340px;
+    max-height: 125px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-left: 4px solid #1AA689
+}
+
+#iconpapper {
+    border-radius: 50%;
+    background-color: #1AA689;
+    color: #f3f3f3;
+    transform: scale(1.5);
+}
+
+#nfimg5 {
+    transform: scale(0.6);
+    float: left;
+    margin-top: -1em;
+    margin-left: 1em;
+}
+
+
+#nfimg {
+    padding-bottom: 10px;
+    margin: auto;
+    display: block;
+    width: 25%;
+    height: 25%;
+}
+
+#nfimgcard {
+    transform: scale(0.8);
+    float: left;
+    margin-top: -0.5em;
+    margin-right: 10px;
+}
+
+#nfimgimport {
+    transform: scale(0.8);
+    float: left;
+    margin-top: -0.5em;
+    margin-right: 10px;
+}
+
+#nfimgnotas {
+    transform: scale(0.7);
+    float: left;
+    margin-top: -0.8em;
+    margin-left: -15px;
+    margin-right: -10px;
+}
+
+#nfimgmanifesta {
+    transform: scale(0.6);
+    float: left;
+    margin-top: -0.8em;
+    margin-left: -15px;
+    margin-right: -5px;
+}
+
+#nfimgtreina {
+    transform: scale(0.7);
+    float: left;
+    margin-top: -0.8em;
+    margin-left: -15px;
+    margin-right: -10px;
+}
+
+
+#btn_bcplay {
+    background-color: #A59DD1;
+    border: 1px solid #A59DD1;
+    float: right;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    margin-top: -15px;
+}
+
+#btn_bcread {
+    background-color: #A59DD1;
+    border: 1px solid #A59DD1;
+    float: right;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin-top: -15px;
+}
+
+#nfimgplay,
+#nfimgtext {
+    transform: scale(0.4);
+    float: left;
+    margin-top: -1em;
+    margin-left: -1.6em;
+    padding-left: 4px;
+}
+
+#btn_closeguia {
+    background-color: #A59DD1;
+    border: 1px solid #A59DD1;
+    letter-spacing: 1px;
+    border-radius: 8px;
+    margin-top: 1.5em;
+    margin-bottom: -3em;
+    width: 150px;
+    height: 30px;
+    margin-left: 17em;
+    padding-bottom: 22px;
+}
+
+#nfpurple {
+    border-left: 4px solid #A59DD1;
+    margin-left: 2em;
+    margin-top: 1.4em;
+    display: inline-block;
+    padding: 30px 8px;
+    max-width: 400px;
+    min-width: 340px;
+    max-height: 125px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+#finmoney {
+    transform: scale(0.7);
+    float: left;
+    margin-top: -0.8em;
+    margin-left: -15px;
+    margin-right: -5px;
+}
+
+#nfgreen1,#nfgreen2,#nfgreen3 {
+    border-left: 4px solid #1AA689
+}
+
+#btn_nextcertificado,#btn_nextmanifestacao,#btn_armazenarxml,#btn_moneyfin {
+    background-color: #1AA689; 
+    border: 1px solid #1AA689; 
+    float: right;
+    margin-top: -10px;
+}
+
+#btn_verificarnotas,#btn_moneyfin {
+    background-color: #1AA689; 
+    border: 1px solid #1AA689; 
+    float: right;
+    margin-top: -10px;
+}
+
+#icon_rocket {
+    background-color: #1CA689; 
+    color: #fff; 
+    border: 1px solid #1CA689; 
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    padding-top: 4px;
+    padding-left: 5px;
+}
+
+.sectiontext {
+    padding-top: 30px;
+    display: flex;
+}
+
+.sectioncards2 {
+    display: flex;
+}
+#rocketgray {
+    color: #666;
+}
+
+.text1 {
+    font-size: 13px;
+    letter-spacing: 0.4px;
+    color: #6e7c8a;
+    margin-top: -1em; 
+    margin-bottom: -2em;
+    line-height: 1.7em;
+}
+
+.titleSistema {
+    font-size: 21px;
+    letter-spacing: 0.3px;
+    font-weight: 300;
+    color: #6e7c8a;
+}
+
+
+#nfimg2 {
+    transform: scale(0.6);
+    float: left;
+    margin-top: -1em;
+    margin-left: -1.6em;
+}
+
+.card-titleintro {
+    font-size: 14px;
+}
